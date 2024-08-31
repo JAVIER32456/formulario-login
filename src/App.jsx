@@ -22,7 +22,7 @@ function App() {
           Contador {count}
         </button>
         <p>
-          Hola ha iniado un nuevo proyecto
+          Hola ha iniado un nuevo proyecto.......
         </p>
       </div>
       <p className="read-the-docs">
